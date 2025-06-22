@@ -1,8 +1,9 @@
 # Student-Average-Compute-Python
 
 About
-A program that will compute for the students average. If the average is equal and above 75 status is Passed else You Failed the semester
-    name = input("name: ")
+A program that will compute for the students average. 
+If the average is equal and above 75 status is Passed else You Failed the semester
+    
 
     math = int(input("enter your math grade: "))
 
